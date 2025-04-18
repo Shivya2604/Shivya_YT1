@@ -1,6 +1,6 @@
  [View the Figma File](https://www.figma.com/design/LNiwWBfrgvAJfRcNP0OUxg/DESIGNFORGE_YT?node-id=0-1&t=59IQnpkeYr1q5Key-1)
  _________________________________________________________________________________________________________________________
-[View the Figma prototype/live file](https://www.figma.com/proto/LNiwWBfrgvAJfRcNP0OUxg/DESIGNFORGE_YT?node-id=0-1&t=59IQnpkeYr1q5Key-1)
+[View the Figma prototype/live file](https://www.figma.com/proto/LNiwWBfrgvAJfRcNP0OUxg/DESIGNFORGE_YT?node-id=0-1&t=59IQnpkeYr1q5Key-1)  (go to top right "sliders"icon and click "fill screen"for better experience)
  
 Designing YouTube for People Like Me
 This wasn’t just a design challenge.
